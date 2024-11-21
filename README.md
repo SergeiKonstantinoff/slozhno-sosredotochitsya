@@ -2,6 +2,7 @@
 
 ---
 
-## Практическая работа, спринт №2 - «Посмотри в окно»
+## Практическая работа, спринт №3 - «Сложно сосредоточиться»
 
-https://github.com/SergeiKonstantinoff/posmotri_v_okno.git
+
+https://github.com/SergeiKonstantinoff/slozhno-sosredotochitsya.git
