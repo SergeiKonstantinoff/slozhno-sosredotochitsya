@@ -11,7 +11,7 @@
   --subtitle-text-color: #000028;
   --title-text-color: #db00ff;
   --bg-image: url(../images/cover-image-dark.png);
-  --main-font: "IBM Plex Mono";
+  --main-font: "IBM Plex Mono", monospace, sans-serif;
   --main-gap: 10px;
   --space: 10px;
   --main-text-size: 18px;
