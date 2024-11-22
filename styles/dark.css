@@ -8,7 +8,6 @@
   --bg-image: url(../images/cover-image-dark.png);
 }
 
-.theme_dark .header__decor,
-.theme_auto .header__decor {
+.theme_dark .header__decor {
   display: block;
 }

@@ -8,8 +8,7 @@
   --bg-image: url(../images/cover-image-light.png);
 }
 
-.theme_light .header__decor,
-.theme_auto .header__decor {
+.theme_light .header__decor {
   display: none;
 }
 
